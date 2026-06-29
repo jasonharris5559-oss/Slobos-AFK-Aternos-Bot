@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "checkindiddy",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "St44R.aternos.me",
-    "port": 30519,
+    "ip": "crystalvanilla.falix.gg",
+    "port": 20003,
     "version": "1.21.11",
     "try-creative": false
   },
